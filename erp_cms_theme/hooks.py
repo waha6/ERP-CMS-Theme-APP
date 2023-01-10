@@ -11,6 +11,7 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
+app_include_css = "/public/css/desk.css"
 # app_include_css = "/assets/erp_cms_theme/css/erp_cms_theme.css"
 # app_include_js = "/assets/erp_cms_theme/js/erp_cms_theme.js"
 
